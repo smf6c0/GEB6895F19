@@ -16,4 +16,3 @@ if(num_in >0 & num_in < 10) {
 } else {
   print("not a correct color option")
 }
-
